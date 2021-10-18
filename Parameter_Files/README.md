@@ -9,7 +9,8 @@ we can work on your issue with you.
 If you would prefer to get a programming stick pre-loaded with the correct parameters for your machine from Tormach, the part numbers are as follows:
 
 **CommanderSK Programming Sticks**
-
+| Tormach PN | Description |
+| ----- | --------------------- |
 | 31096 | PCNC1100S2 SmartStick |
 | 31517 | PCNC770 SmartStick |
 | 35177 | High Speed Spindle SmartStick |
@@ -17,6 +18,8 @@ If you would prefer to get a programming stick pre-loaded with the correct param
 
 **M200/C200 Programming Tools**
 
+| Tormach PN | Description |
+| ----- | --------------------- |
 | 38795 | SD Programming Adapter |
 | 50611 | 1100M Programming Card |
 | 50612 | 770M/RapidTurn Programming Card |
