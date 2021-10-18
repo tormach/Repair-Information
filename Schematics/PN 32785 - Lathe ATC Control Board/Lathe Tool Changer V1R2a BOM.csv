@@ -1,0 +1,19 @@
+﻿Qty,Designator(s),Description,Manf,Manf P/N,Mouser Part Number,Data Sheet URL
+3,C1 - C3,"Cap, 0.1uF, 1000V, Polypropolene, Pulse Suppression",WIMA,MKP1O131005F00KYSD,505-M10.1/1000/10,http://www.wima.com/EN/mkp10.htm
+9,C11 - C19,"Cap, 0.1uF, 50V, 0603, Ceramic",Kemet,C0603C104K5RACTU,80-C0603C104K5R,http://www.kemet.com/datasheets&C0603C104K5RACTU
+9,D1 - D9,"Diode, Switching, 200mA, 70V",ON Semi,MMDL6050T1G,863-MMDL6050T1G,http://www.onsemi.com/pub/Collateral/MMDL6050T1-D.PDF
+2,"D12, D13","Diode, Rectifier, 1A, 400V",Fairchild,RS1G,512-RS1G,http://www.fairchildsemi.com/ds/RS/RS1G.pdf
+2,"F1, F2","Fuse Holder, Clip, 10A",Schurter,0031.8201,693-0031.8201,http://www.schurter.com/var/schurter/storage/original/application/acbc999768914b82dcf1e318ad220f35_ip.zip
+2,"(F1, F2)","Fuse, Slow-Blow, 5x20mm, 3.15A, 250V",Schurter,0034.3122,693-0034.3122,http://www.schurterinc.com/var/schurter/storage/ilcatalogue/files/document/datasheet/en/pdf/typ_FST_5x20.pdf
+2,"(F1, F2)",Fuse Cover,Schurter,0853-0551,693-0853.0551,http://www.schurter.com/var/schurter/storage/ilcatalogue/files/document/datasheet/en/pdf/typ_Covers_for_OGN__OGN-SMD.pdf
+1,P3,"Connector, Plug-In Terminal, 11-Pos, 3.81mm",Degson,15EDGRC-3.81-11P-14,,http://www.degson.com/20081120/epdf/607.pdf
+2,"K1, K2","Relay, Mech, DPDT, 400VAC, 8A, 24VDC Coil",Tyco Elec,RTE24024F,655-RTE24024F,http://www.mouser.com/catalog/specsheets/RT2pb0411.pdf
+1,P1,"Header, 5-Pos, 5mm, PST Series",Phoenix,1933215,651-1933215,http://www.phoenixcontact.com/online/portal/us/pxc/product_detail_page/!ut/p/b1/3ZbHjqNAFEW_pT_ATQHGwLKAAhOMiSZsELkxJphsvn66Zz1h73qrkt7inicd6WIhFuAETgLiSJIk5mNhGy9VGU9V18aPn394ihzOQcggTvjVpDggCxSPtKOFn3UC8zAfHCP7zgyKw_eqpg7u_bVOzkg63Pp0FT7pre3Je9ALVZf3-kTa6hj1Hh_vCp_djF0uL-DwNatmNwKOu71QeUUO517YAHcF7qZn7r7CDj6uRUxIaYyf5ycsodj7bAg_Pr4DBv8ICPH_5Q--F-iIlfTT9wVOuGQbIpAVWXKO-hnQNwpzMN8KFp3vLiuS7WKzsyDh725wQj5Nk8hjXjPqu4LwXnXhT7oY2FRhGPoKBWEtG-1h5Urq0KT5FM9AIlpcJVhzI0uRk-0T7KvtQfKsf-mXuR6-cNzOBpfi7Ww5PvZLoZxYiW1XgXQU0WC0eD-cg0Grb7OarbWe5U6icz1jexfw8T8Q-j1AdHB8F5DTu4BQ7wLyLo5I7-KI9C6OSO_iiPQujlzBD4gT0Bo_KlBAXrSZTNdZIcf52Ty36U66oI3NB3FurCZecPqwqWIi0dfF58vSjuWN2O021Bo5i5VEJspXPd3O6eho0B8HlPJTYNfE1vIJU-SG96VKKzgwixYiMhaylvQi55jPnDslOKTqx5hs95VUJFu2KHkKPdEMHFXUV9-whrvqm8adtqdmZ_1iMY_FSwE9Kr_rj4KFVdJ8rmnzCT77Lf3shy6b0ynK8imuHlEflzl2c9JxEzpYCkiwxp0DUwjYKumCFYV6z8He9JgFpP4kRNFXeb02TduVndgPE72YB6uCQ8vJXN23vgy9J54sG4KHapA7p2HTqtTNl73p43pRsz41xPigT5HHUITlR_c0f-7IQBGg-J-25mHhPwvZT1_7vQD-8iDA7LyNXDuaR0w_d02ONeHwOsR_nATcj_AXy2GwQQ!!/dl4/d5/L2dBISEvZ0FBIS9nQSEh/?pid=1933215&library=usen&pcck=
+1,P2,"Header, 16-Pos, Ribbon, 0.1"", Straight",Omron,XG4A-1632,653-XG4A-1632,http://www.components.omron.com/components/web/PDFLIB.nsf/0/1D642D622E2FDCF685257201007DD590/$file/XG4_1110.pdf
+1,P2,"Header, 16-Pos, Ribbon, 0.1"", Straight",Omron,XG4A-1631,653-XG4A-1631,http://www.components.omron.com/components/web/PDFLIB.nsf/0/1D642D622E2FDCF685257201007DD590/$file/XG4_1110.pdf
+2,"P4, P5","Terminal, Quick-Fit, Male, .250 x .032",Keystone,1287-ST,534-1287-ST,http://www.keyelco.com/pdfs/M60/M60p53.pdf
+9,Q1 - Q9,"IC, Optocoupler",Fairchild,FOD817B3S,512-FOD817B3S,http://www.fairchildsemi.com/ds/FO/FOD814A.pdf
+3,R1 - R3,"Res, 100 Ohm, 2512, 1W",Vishay,CRCW2512100RFKEG,71-CRCW2512-100-E3,http://www.vishay.com/doc?20035
+9,R11 - R19,"Res, 2K, 0603",Vishay,CRCW06032K00FKEB,71-CRCW06032K00FKEB,http://www.vishay.com/doc?20035
+9,R21 - R29,"Res, 7.5K, 0603",Vishay,CRCW06037K50FKEA,71-CRCW0603-7.5K-E3,http://www.vishay.com/doc?20035
+1,R4,"Res, 100K Ohm, 2512, 1W",Vishay,CRCW2512100KFKEG,71-CRCW2512-100K-E3,http://www.vishay.com/doc?20035
