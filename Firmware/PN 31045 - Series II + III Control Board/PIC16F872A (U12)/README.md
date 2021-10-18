@@ -1,0 +1,1 @@
+Note that there are firmware files for the 31045 PCB for either the Series II PCNC machine or the Series III PCNC. Make sure you are using the correct one.
