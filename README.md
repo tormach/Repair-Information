@@ -1,2 +1,29 @@
-# Repair-Information
-Schematics, firmware, and documentation preserved to support the repair of Tormach products that have reached End of Life status.
+## Purpose
+Tormach believes in your right to repair your machine after is has left the warranty period. 
+Our machines are built for the long-term and failed components should not be a barrier to repairing issues as they come up.
+
+This repository is intended as a long term source of information on all products we sell, even after they are no longer being manufactured new. 
+We maintain it on a best-effort basis, so please let us know if we are missing information on a product you have.
+
+If you need support on a product that is still under warranty, please contact our technicians at [https://tormach.com/support](https://tormach.com/support)
+
+## :warning: Caution! :warning:
+
+Items in this repository are intended for people familiar with component level repair of electronics, 
+VFD programming, and microcontroller work. It is 100% possible to unintentionally brick parts of your Tormach machine (for example, by flashing 
+VFD parameters intended for a different machine). 
+
+Please use these resources carefully and if you are not sure how to use them please reach out to one of the indepenent repair technicians who work on Tormach machines.
+
+## Index
+The general structure of this repository is as follows:
+
+* [Manuals and Technical Documents](manuals/) - Service manuals and usage instructions for EOL Tormach products. 
+* [Schemtics](schematics/) - Schemtics of PCBs used in Tormach machines. Intended to facilitate board level repairs by skilled technicians.
+* [Firmware](firmware/) - Firmware used on MCUs on Tormach control boards. Intended to allow replacement and reflashing of MCU chips that have been damaged.
+* [Parameter Files](parameter_files/) - Programming files for motor controllers used in Tormach machines. **Use extreme caution** - just because two machines use the same model of VFD does **not** mean they can share parameter files.
+
+## Disclaimer
+Tormach provides this information because we strongly believe that the end of a warranty should never spell death for a product. 
+Component level repair of PCBs, reflashing PIC chips and modifying VFDs all require domain specific knowledge. Please reach out on 
+one of our user groups if you are unsure how to proceed with a repair. 
