@@ -18,7 +18,7 @@ Please use these resources carefully and if you are not sure how to use them ple
 ## Index
 The general structure of this repository is as follows:
 
-* [Manuals and Technical Documents](Manuals/) - Service manuals and usage instructions for EOL Tormach products. 
+* [Manuals and Technical Documents](Documentation/) - Service manuals and usage instructions for EOL Tormach products. 
 * [Schematics](Schematics/) - Schematics of PCBs used in Tormach machines. Intended to facilitate board level repairs by skilled technicians.
 * [Firmware](Firmware/) - Firmware used on MCUs on Tormach control boards. Intended to allow replacement and reflashing of MCU chips that have been damaged.
 * [Parameter Files](Parameter_Files/) - Programming files for motor controllers used in Tormach machines. **Use extreme caution** - just because two machines use the same model of VFD does **not** mean they can share parameter files.
