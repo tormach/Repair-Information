@@ -22,6 +22,7 @@ The general structure of this repository is as follows:
 * [Schematics](Schematics/) - Schematics of PCBs used in Tormach machines. Intended to facilitate board level repairs by skilled technicians.
 * [Firmware](Firmware/) - Firmware used on MCUs on Tormach control boards. Intended to allow replacement and reflashing of MCU chips that have been damaged.
 * [Parameter Files](Parameter_Files/) - Programming files for motor controllers used in Tormach machines. **Use extreme caution** - just because two machines use the same model of VFD does **not** mean they can share parameter files.
+* [Whitepapers](Whitepapers/) - When Tormach makes an engineering decision that is particularly important to us, we often write a whitepaper explaining the rational that went into the decicision. We release those here in hopes that they will be helpful to others in the maker community.
 
 ## Disclaimer
 Tormach provides this information because we strongly believe that the end of a warranty should never spell death for a product. 
