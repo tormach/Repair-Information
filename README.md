@@ -28,3 +28,5 @@ The general structure of this repository is as follows:
 Tormach provides this information because we strongly believe that the end of a warranty should never spell death for a product. 
 Component level repair of PCBs, reflashing PIC chips and modifying VFDs all require domain specific knowledge. Please reach out on 
 one of our user groups if you are unsure how to proceed with a repair. 
+
+THIS INFORMATION IS PROVIDED WITHOUT A WARRANTY OF ANY KIND. WE RESERVE THE RIGHT TO ISSUE REVISIONS TO PARTS AND DOCUMENTATION WITHOUT NOTICE.  
