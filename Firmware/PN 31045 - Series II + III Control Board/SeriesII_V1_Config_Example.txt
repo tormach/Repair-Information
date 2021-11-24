@@ -1,0 +1,15 @@
+File Name SeriesII_V1.HEX
+Device: PIC16F872
+Checksum: 003EB573H
+
+WDT: Enable
+BOR: Enable
+WRT=1: Enable
+
+PWRT: Disabled
+LVP:Disabled
+
+ID0:3FFF
+ID1:3FFF
+ID2:3FFF
+ID3:3FFF
