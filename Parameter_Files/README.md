@@ -1,10 +1,10 @@
 ## Tormach VFD and Motor Controller Parameter Files
 ### :warning: Caution! :warning:
-These parameter files are intended to allow you to bootstrap a VFD that has had it's EEPROM erased or has been salvaged from another machine.
+These parameter files are intended to allow you to bootstrap a VFD that has failed, had it's EEPROM erased, or has been salvaged from another machine.
 
-Flashing the incorrect parameter files to your VFD is possibly the easiest way to render it inopperable. If 
+Flashing the incorrect parameter files to your VFD is possibly the easiest way to render it inopperable. If
 your machine is still under warranty, **please** contact Tormach tech support (https://tormach.com/support) and
-we can work on your issue with you. 
+we can work on your issue with you.
 
 If you would prefer to get a programming stick pre-loaded with the correct parameters for your machine from Tormach, the part numbers are as follows:
 
